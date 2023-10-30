@@ -1,4 +1,8 @@
-# ABC-Call-Volume-Trend-Analysis
+# Analyzing the Impact of Car Features on Price and Profitability
 
-In this project, we will be diving into the world of Customer Experience (CX) analytics, specifically focusing on the inbound calling team of a company. We are provided with a dataset that spans 23 days and includes various details such as the agent’s name and ID, the queue time (how long a customer had to wait before connecting with an agent), the time of the call, the duration of the call, and the call status (whether it was abandoned, answered, or transferred). We will be using our analytical skills to understand the trends in the call volume of the CX team and derive valuable insights from it.
-https://medium.com/@avi22nayak/abc-call-volume-trend-analysis-b79f83c774b5
+This Project is about analyzing patterns in the various Car features to understand the factors that drive consumer demands for Cars. These insights will be helpful for Car manufacturers, dealers and other stakeholders to determine the important factors to boost sales of Cars.
+https://medium.com/@avi22nayak/analyzing-the-impact-of-car-features-on-price-and-profitability-08f01dc8b4f1
+
+Link to Tableau Dashboard: https://public.tableau.com/views/Project7_16955900575650/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![image](https://github.com/Avinash07Nayak/Analyzing-the-Impact-of-Car-Features-on-Price-and-Profitability/assets/110491966/081331a8-85d2-4943-9a93-7499c57f1ec0)
+
